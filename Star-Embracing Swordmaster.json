@@ -4,5 +4,14 @@
   "artist": "Hong Dae Ui, juno",
   "author": "Q10",
   "cover": "https://book-pic.webnovel.com/bookcover/30949291108858805?imageMogr2/thumbnail/600x&imageId=1729534594429",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1741905619",
+      "groups": {
+        "": "https://plutoscans.com/manga/star-embracing-swordmaster/star-embracing-swordmaster-chapter-1/"
+      }
+    }
+  }
 }
